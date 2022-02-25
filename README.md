@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I'm Dongkyu, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
 
