@@ -9,12 +9,12 @@
 
 ### <div align="center">Tech Stack</div>
 #### <div align="center">Used as the main</div>
-<p>
+<div align="center">
 <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring-brightgreen?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-</p>
+</div>
 
 #### <div align="center">Used at least once
 <p>
