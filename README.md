@@ -1,14 +1,14 @@
 
-### <div align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
-<div align="center">My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer.</div>
+### <div align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
+<div align="center"> My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer. </div>
 
 ### <div align="center"> Latest Projects </div>
-[<div align="center">Homemaker-project</div>](https://github.com/4plus6is10)
-[<div align="center"> Probono-project</div>](https://github.com/ProbonoProject/Probono-project.git)
+[<div align="center"> Homemaker-project </div>](https://github.com/4plus6is10)
+[<div align="center"> Probono-project </div>](https://github.com/ProbonoProject/Probono-project.git)
 
 
-### <div align="center">Tech Stack</div>
-#### <div align="center">Used as the main</div>
+### <div align="center"> Tech Stack </div>
+#### <div align="center"> Used as the main </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </div>
 
-#### <div align="center">Used at least once
+#### <div align="center"> Used at least once </div>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
