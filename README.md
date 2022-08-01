@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-brightgreen?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Information?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
 ### Connect with me
