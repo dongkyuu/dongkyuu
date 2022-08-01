@@ -1,9 +1,11 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p>
+  My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer.
+</p>
 
 ### Latest Projects
-[Git_merge_practice](https://github.com/dongkyuu/Web-FrontEnd-Miniproject)   
-[Probono-project](https://github.com/ProbonoProject/Probono-project.git)   
 [Homemaker-project](https://github.com/4plus6is10)
+[Probono-project](https://github.com/ProbonoProject/Probono-project.git)   
 
 ### Tech Stack
 #### Used as the main
