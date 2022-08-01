@@ -1,4 +1,5 @@
-### <center>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></center>
+
+### <div align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 <p>My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer.</p>
 
 ### Latest Projects
