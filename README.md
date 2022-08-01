@@ -1,7 +1,5 @@
 
-### <div align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
-<div align="center"> I'm Dongkyu Lim.   
-I'm interested in Backend and Data engineer </div>
+### <div align="center"> Hi! I'm Dongkyu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
 
 ### <div align="center"> Latest Projects </div>
 [<div align="center"> Homemaker-project </div>](https://github.com/4plus6is10)
