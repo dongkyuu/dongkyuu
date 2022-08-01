@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Latest Projects
-[Git_merge_practice](https://github.com/dongkyuu/Web-FrontEnd-Miniproject)
+[Git_merge_practice](https://github.com/dongkyuu/Web-FrontEnd-Miniproject)   
 [Probono-project](https://github.com/ProbonoProject/Probono-project.git)
 
 ### Tech Stack
