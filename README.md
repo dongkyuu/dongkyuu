@@ -3,7 +3,7 @@
 <p>
   My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer.
 </p>
-
+</center>
 ### Latest Projects
 - [Homemaker-project](https://github.com/4plus6is10)   
 - [Probono-project](https://github.com/ProbonoProject/Probono-project.git)   
@@ -30,4 +30,4 @@
 ### Connect with me
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>   
 : gitdaram@gmail.com
-</center>
+
