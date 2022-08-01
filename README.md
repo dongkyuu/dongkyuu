@@ -1,9 +1,9 @@
 
-### <div align="center"> Hi! I'm Dongkyu! 👋:</div>
+### <div align="center"> Hi! I'm Dongkyu! 👋</div>
 
-### <div align="center"> 🏆: Latest Projects 🏆: </div>
-[<div align="center"> :radio_button: Homemaker-project </div>](https://github.com/4plus6is10)
-[<div align="center"> :radio_button: Probono-project </div>](https://github.com/ProbonoProject/Probono-project.git)
+### <div align="center"> 🏆 Latest Projects 🏆 </div>
+[<div align="center"> 🔎 Homemaker-project </div>](https://github.com/4plus6is10)
+[<div align="center"> 🔎 Probono-project </div>](https://github.com/ProbonoProject/Probono-project.git)
 
 
 ### <div align="center"> Tech Stack </div>
