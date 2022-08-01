@@ -1,3 +1,4 @@
+<center>
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p>
   My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer.
@@ -29,3 +30,4 @@
 ### Connect with me
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>   
 : gitdaram@gmail.com
+</center>
