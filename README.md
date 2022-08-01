@@ -4,8 +4,8 @@
 </p>
 
 ### Latest Projects
-[Homemaker-project](https://github.com/4plus6is10)   
-[Probono-project](https://github.com/ProbonoProject/Probono-project.git)   
+- [Homemaker-project](https://github.com/4plus6is10)   
+- [Probono-project](https://github.com/ProbonoProject/Probono-project.git)   
 
 ### Tech Stack
 #### Used as the main
