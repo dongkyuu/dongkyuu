@@ -3,8 +3,8 @@
 <div align="center">My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer.</div>
 
 ### <div align="center"> Latest Projects </div>
-- [<div align="center">- Homemaker-project</div>](https://github.com/4plus6is10)
-- <div align="center">[Probono-project](https://github.com/ProbonoProject/Probono-project.git)  </div>
+- [<div align="center">Homemaker-project</div>](https://github.com/4plus6is10)
+- [<div align="center"> Probono-project</div>](https://github.com/ProbonoProject/Probono-project.git)
 
 
 ### Tech Stack
