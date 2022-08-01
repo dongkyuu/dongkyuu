@@ -1,8 +1,5 @@
-<center>
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p>
-  My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer.
-</p>
+<p style="text-align: center">My name is Donkkyu Lim. I want to be a data engineer, also am interested in a backend developer.</p>
 </center>
 ### Latest Projects
 - [Homemaker-project](https://github.com/4plus6is10)   
